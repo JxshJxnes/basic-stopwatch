@@ -2,13 +2,13 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-color: black;
+    background-image: url(https://images.wallpapersden.com/image/download/topography-abstract-black-texture_a2lmZmiUmZqaraWkpJRobWllrWdma2U.jpg);
 }
 
 #title {
     font-size: 4rem;
     font-family: Arial, sans-serif;
-    color: blueviolet;
+    color: white;
 }
 
 #container{
@@ -18,7 +18,7 @@ body {
     border: 5px solid;
     border-radius: 50px;
     padding: 30px;
-    background-color: aqua;
+    background-color: darkslategrey;
 }
 
 #display {
